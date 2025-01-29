@@ -1,0 +1,35 @@
+{
+  "name": "food-ordering-app-react",
+  "version": "1.0.0",
+  "description": "Food Ordering App",
+  "keywords": [
+    "react",
+    "food-ordering-app"
+  ],
+  "homepage": "https://github.com/SatenderRathore/food-ordering-app#readme",
+  "bugs": {
+    "url": "https://github.com/SatenderRathore/food-ordering-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatenderRathore/food-ordering-app.git"
+  },
+  "license": "ISC",
+  "author": "Satender Singh Rathore",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browsersList": [
+    "last 2 version"
+  ]
+}
